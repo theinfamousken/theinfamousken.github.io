@@ -9,7 +9,7 @@ character is Sadira.
 So far I'm been pretty good at playing the game, I was able to level up my charracter, Sadira, up to level 8.
 
 
-## Boighraphy about my character Sadira
+## Biography about Sadira
 
 Sadira is a cold-blooded assassin who has contracted with Ultratech to quiet whistleblowers, activists, politicians and any other enemies of the megacorporation who might prevent the artificial intelligence called ARIA from executing her plans for an evolved humanity.
 
