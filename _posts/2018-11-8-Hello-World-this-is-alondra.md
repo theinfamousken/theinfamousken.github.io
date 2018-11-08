@@ -7,6 +7,7 @@ My name is Alondra Soto, I'm a student at Franklin D. Roosevelt High School Col
  	<li>my age is 16</li>
  <li>I like to do sports</li>
 </ol>
+## Sports I'm in
 <ul>
  	<li>swimming team</li>
  	<li>softball</li>
