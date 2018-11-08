@@ -5,19 +5,6 @@ title: Hello world!
 
 My name is Alondra Soto, I'm a student at Franklin D. Roosevelt High School Collegiate Program. In this program, I am given 2 years of college. Once I graduate I will have my associate degree in web design. Apart from me being in the Collegiate Program, I'm More involved in school. I'm in the FDR Schools swimming team and soon to be in my school's softball team. I have once been in my school softball team for a year in my first year in high school. I remember the days went going to the softball; at that time, I was in the J.V team.
 
-## Facts about me
-<ol>
- 	<li>my birthday is on June 1, 2002</li>
- 	<li>my age is 16</li>
- <li>I like to do sports</li>
-</ol>
-
-## Sports I'm in
-
-<ul>
- 	<li>swimming team</li>
- 	<li>softball</li>
-</ul>
 I like to write, one of the many reasons that I like to write is that you can come up with anything. You can create a new world and conducting the plot. Being able to create universes and the being in the universe Here’s an example of the stories I can make.
 
 <hr />
