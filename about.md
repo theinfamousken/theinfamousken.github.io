@@ -5,21 +5,21 @@ permalink: /about/
 ---
 
 <ol>
- 	<li>my birthday is on June1, 2002</li>
+ 	<li>my birthday is on september 5th , 2002</li>
  	<li>my age is 16</li>
 </ol>
 
 ## Sports I'm In
 
 <ul>
- 	<li>swimming team</li>
- 	<li>softball</li>
+ 	<li>tennis/li>
+ 	<li>professtional bleach drinking</li>
 </ul>
 
 ### More Information
 
-I like to play video games such as Killer Instinct ( i think im pretty good at it)
+I like to play video games such as rainbow six seige gold 2 :P
 
 ### Contact me
 
-[selian.soto.123@gmail.com](mailto:selian.soto.123@gmail.com)
+[xndhdhdjzhsgmail.com](mailto:selian.soto.123@gmail.com)
