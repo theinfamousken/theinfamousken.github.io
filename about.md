@@ -12,7 +12,7 @@ permalink: /about/
 ## Sports I'm In
 
 <ul>
- 	<li>tennis/li>
+ 	<li>tennis</li>
  	<li>professtional bleach drinking</li>
 </ul>
 
