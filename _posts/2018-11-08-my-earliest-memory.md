@@ -3,8 +3,5 @@ layout: post
 title: My Earliest Memory
 ---
 
-when i was 12 i remeber buying a chocolate ice cream.
-
-The chocolate ice cream fell to the floor.
-
-Later on ants swarmed the pudle of ice cream.
+## Its misty in the mist village
+Me and my group was walking through in Kirigakure. IT WAS SOO MISTY WE WOULDNT SEE WHAT WAS IN FRONT OF US!!!!! jihad almost ran into a tree ha
