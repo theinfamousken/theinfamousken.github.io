@@ -18,7 +18,7 @@ permalink: /about/
 
 ### More Information
 
-I like to play video games such as rainbow six seige gold 2 :P
+I like to play video games such as rainbow six seige gold II
 
 ### Contact me
 
