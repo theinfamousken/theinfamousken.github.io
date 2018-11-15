@@ -4,16 +4,7 @@ title: my love of bleach
 permalink: /bleach/
 ---
 
-
-<!DOCTYPE html>
-<html>
-
-  <body>
-  <h1>Intermidiate Web Programming</h1>
-
-  <div class="entry">
-    <h1 id="my-class-mates">My class mates</h1>
-
+## Classmates
 <ol>
   <li><a href="https://">Destiny Benjamin</a></li>
   <li><a href="https://3036154.github.io/">Christopher Davis</a></li>
@@ -40,37 +31,4 @@ permalink: /bleach/
   <li><a href="https://shariwhitaker.github.io/">Shari Whitaker</a></li>
 </ol>
 
-  </div>
-
-  <div class="date">
-    Written on 
-  </div>
-
   
-</article>
-
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          
-
-
-
-<a href="https://github.com/barryclark/jekyll-now"><i class="svg-icon github"></i></a>
-
-
-
-<a href="https://www.twitter.com/jekyllrb"><i class="svg-icon twitter"></i></a>
-
-
-
-        </footer>
-      </div>
-    </div>
-
-    
-
-  </body>
-</html>
