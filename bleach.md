@@ -7,57 +7,8 @@ permalink: /bleach/
 
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Intermidiate Web Programming – Jasmine Garcia – Web Developer from Dallas, Texas</title>
-
-        <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-
-    
-    <meta name="description" content="Web Developer from Dallas, Texas">
-    <meta property="og:description" content="Web Developer from Dallas, Texas" />
-    
-    <meta name="author" content="Jasmine Garcia" />
-
-    
-    <meta property="og:title" content="Intermidiate Web Programming" />
-    <meta property="twitter:title" content="Intermidiate Web Programming" />
-    
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="Jasmine Garcia - Web Developer from Dallas, Texas" href="/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="/" class="site-avatar"><img src="https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="/">Jasmine Garcia</a></h1>
-            <p class="site-description">Web Developer from Dallas, Texas</p>
-          </div>
-
-          <nav>
-            <a href="/blog">Blog</a>
-            <a href="/about">About</a>
-            <a href="/directory">ITSE 2402</a>
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      <article class="post">
   <h1>Intermidiate Web Programming</h1>
 
   <div class="entry">
@@ -108,7 +59,6 @@ permalink: /bleach/
 
 
 <a href="https://github.com/barryclark/jekyll-now"><i class="svg-icon github"></i></a>
-<a href="https://instagram.com/jazm1ne"><i class="svg-icon instagram"></i></a>
 
 
 
