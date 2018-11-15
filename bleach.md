@@ -1,7 +1,7 @@
 ---
 layout: page
 title: my love of bleach
-permalink: /:bleach/
+permalink: /bleach/
 ---
 
 ## about bleach
