@@ -4,30 +4,123 @@ title: my love of bleach
 permalink: /bleach/
 ---
 
-## about bleach
-The Bleach anime series adapts Kubo's manga, but also introduces several original, self-contained story arcs. In Karakura Town, a 15-year-old high school student Ichigo Kurosaki becomes a substitute Soul Reaper when Rukia Kuchiki, a Soul Reaper, cannot fulfill her duties after engaging in battle with a particularly powerful Hollow. Although initially reluctant to accept the heavy responsibility, he begins eliminating Hollows in Rukia's place and during this time discovers that several of his friends and classmates are spiritually aware and have powers of their own: Uryū Ishida is a Quincy who can use spirit particles, Orihime Inoue possesses a group of protective spirits known as the Shun Shun Rikka and Yasutora Sado ("Chad") has strength equal to the Hollows encased in his tough right arm.
 
-When Rukia is sentenced to death for her transgressions in the human world and taken back to the spirit world of Soul Society, Ichigo heads there to seek out the assistance of Kisuke Urahara and Yoruichi Shihōin, unbeknownst to him as being two exiled Soul Reapers, to allow himself and his friends to save Rukia. After Ichigo and his friends battle many Soul Reapers, it is revealed that high-ranking Soul Reaper Sōsuke Aizen framed Rukia for the crime and has been illegally experimenting on Soul Reapers and Hollows. Aizen plans on taking over Soul Society via use of the Hōgyoku, a legendary substance that can turn Hollows into half Soul Reapers and vice versa, increasing their powers greatly. He escapes into Hueco Mundo, the realm of the Hollows, and later abducts Orihime as she is instrumental in creating the Oken, a power that will allow him to kill the Soul King, the ruler of Soul Society.
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Intermidiate Web Programming – Jasmine Garcia – Web Developer from Dallas, Texas</title>
 
-After being trained by the Vizards, other exiled Soul Reapers who were unwillingly subjects of Aizen's experiments and developed Hollow powers, Ichigo and his friends travel into Hueco Mundo to save Orihime, facing Aizen's army of Arrancars, Hollows given Soul Reaper abilities, who are led by an elite group of ten known as the Èspadas that are composed of ten Arrancars with exemplary strength. Along with Aizen, Gin Ichimaru and Kaname Tōsen, the Èspada as a group possess comparable strength to Soul Society's Gotei 13 Soul Reaper captains. After finally reaching Orihime, Aizen reveals her kidnapping was a distraction to allow him to take Karakura Town, as its spiritual energy is what is needed for the Oken. After training from his father Isshin, another exiled Soul Reaper, Ichigo and the Soul Reapers face off against Aizen, Soul Reapers who aligned with his cause, and his most powerful Èspadas, resulting in Aizen's surrender and the loss of Ichigo's Soul Reaper powers as he uses a sacred technique to seal Aizen away for good.
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-Nearly two years later, Chad reveals to Ichigo that he has found people like him, known as Fullbringers, in a group known as Xcution. The Fullbringers can give up their powers to restore a Soul Reaper's powers and they plan on doing so for Ichigo, who begins to use Fullbring as well. However, it is all a ruse by their leader Kugo Ginjo, a Fullbringer and former Substitute Soul Reaper, to steal Ichigo's powers to empower the rest of them. Ichigo ultimately has his Soul Reaper powers restored when he finally earns proper trust from the Soul Society. The captains and lieutenants then share their powers with Ichigo who defeats Ginjo and the other members of Xcution, and returns to his duty of protecting Karakura Town proudly as a Substitute Soul Reaper.
+    
+    <meta name="description" content="Web Developer from Dallas, Texas">
+    <meta property="og:description" content="Web Developer from Dallas, Texas" />
+    
+    <meta name="author" content="Jasmine Garcia" />
 
-Several original story arcs are presented. The Bount arc in season 4 focuses on spiritually aware humans who are immortal so long as they absorb souls. Their leader Jin Kariya seeks to destroy Soul Society for the constant hunting of the Bount, and he and Ichigo battle for the fate of Soul Society. Another storyline is the introduction of captain Shūsuke Amagai, the replacement for Gin Ichimaru after he joined Aizen in his betrayal. Amagai seeks revenge against Commander Yamamoto for the death of his father, and uses the Kasumiōji family's Bakkōtō weapons in his plans. Ichigo battles Amagai, who acknowledges the shame of his actions and commits suicide. The third original arc features the evil Zanpakutō Muramasa, which has the ability to turn itself and other Zanpakutō into spiritual beings to take revenge on Soul Society for imprisoning its master Kōga Kuchiki. After he is successful, he is double-crossed and transforms into a monstrous creature that Ichigo defeats, but not before Muramasa reveals the intention was to have Soul Reapers and Zanpakutō communicate on equal terms. The fourth and final original arc features an event in which Kagerōza Inaba creates modified soul copies of many members of the Gotei 13, placing them in Reigai bodies. Inaba sought to capture Nozomi Kujō in order to fuse with her and once again become their original being Ōko Yushima. Upon fusion, Yushima sought to destroy the Soul Society.
+    
+    <meta property="og:title" content="Intermidiate Web Programming" />
+    <meta property="twitter:title" content="Intermidiate Web Programming" />
+    
 
-Casting
-Ichigo's voice actor Masakazu Morita tries to recreate the mood that he feels when he reads the comment and imagines hearing the dialogue. In an interview with Elicia O'Reilly of the Japan Foundation, Morita said that to get into character, he will say a line that epitomizes that character.
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 
-English voice cast
-Studio City, Los Angeles-based Studiopolis was hired to dub the anime and its English-language cast was assembled from experienced industry actors with many having roles in dozens of credits in other anime series, films and video games. Originally, Johnny Yong Bosch, Ichigo's English voice actor, found pronouncing the names of the characters to be difficult and tried to do the deep gruff voice of the Japanese Ichigo Bosch acknowledges that the directorial control was loosened as the work progressed; stating around episode 10, as he was guided into the role of Ichigo and it the growth of the character.[3] Bosch noted that the long scenes of screaming and panting, in particular the scene in episode 18, have nearly made him pass out.[3] Stephanie Sheh noticed the difference in the tone of Orihime's voice in the English adaptation and described it as being higher pitched and "innocent-sounding".[3] The dub's producers wanted to make Orihime sound tough, and comedic, but not "ditzy". Sheh relates to her character's unusual creations for food, but believes she is better.[3] Derek Stephen Prince likes to play Uryu because he is the black sheep of the cast and he is a complex character.[3] Throughout the production, Prince acknowledges his role as the English voice actor of Shino Aburame from Naruto and sets them apart by taking a Clint Eastwood tone for Uryu.[3]
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Jasmine Garcia - Web Developer from Dallas, Texas" href="/feed.xml" />
 
-For the voice acting, one of the difficulties was stating Japanese phrases while maintaining pronunciation and inflection.[3] The duality of the story was hard to keep up with, and the cast had to juggle the challenges of performing under the different lifestyles of the characters.[3] The voice actors often made suggestions for the scenes that differ from the approved script and results in rewriting and additional takes that were put into the dub.[3]
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
 
-Production
-Noriyuki Abe was chosen as director of the series while Masashi Sogo acted as head writer for Episodes #1-212. Tsuyoshi Kida was head writer for Episodes #230-265. Kento Shimoyama held the title of head writer for Episodes #317-366. Masashi Kudō provided the character designs, occasionally providing key animation or acting as an animation supervisor himself.
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="/" class="site-avatar"><img src="https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png" /></a>
 
-The music of Bleach was composed by Shirō Sagisu. Sagisu's musical score for the television series was released in four CD sets. Four additional CDs were released for the music composed for the four Bleach animated films.
+          <div class="site-info">
+            <h1 class="site-name"><a href="/">Jasmine Garcia</a></h1>
+            <p class="site-description">Web Developer from Dallas, Texas</p>
+          </div>
 
-During the production and broadcast of the first 167 episodes the screen size was in 4:3; episodes 168 through 366 were produced and broadcast in 16:9 wide screen.
+          <nav>
+            <a href="/blog">Blog</a>
+            <a href="/about">About</a>
+            <a href="/directory">ITSE 2402</a>
+          </nav>
+        </header>
+      </div>
+    </div>
 
-In a 2009 interview, Kubo and Masashi Kudō discussed the upcoming Zanpakutō: The Alternate Tale, with Kubo wishing that he could draw the events into the manga. Kubo also revealed that his art style varies in the production of the work and only became cemented after the airing of the anime. He acknowledges his art style having changes as a result of his work and gave an example that he no longer draws hair growing from behind the ears of characters.[4]
+    <div id="main" role="main" class="container">
+      <article class="post">
+  <h1>Intermidiate Web Programming</h1>
+
+  <div class="entry">
+    <h1 id="my-class-mates">My class mates</h1>
+
+<ol>
+  <li><a href="https://">Destiny Benjamin</a></li>
+  <li><a href="https://3036154.github.io/">Christopher Davis</a></li>
+  <li><a href="https://">Dekendrick Dukes </a></li>
+  <li><a href="https://marlencarreno.github.io/">Marlen Carreno</a></li>
+  <li><a href="https://getsemani02.github.io/">Areli Esquivel</a></li>
+  <li><a href="https://haazelv.github.io/">Hazel Figueroa</a></li>
+  <li><a href="https://jazm1ne.github.io/">Jasmine G</a></li>
+  <li><a href="https://miriamlaguera.github.io/">Miriam Hernandez</a></li>
+  <li><a href="https://jared0425.github.io">Jared Jones</a></li>
+  <li><a href="https://jihadj.github.io">Jihad Johnson</a></li>
+  <li><a href="https://azaidensuniverses.github.io/">Sergio Lopez</a></li>
+  <li><a href="https://rodolfo02002.github.io/">Rodolfo Manriquez</a></li>
+  <li><a href="https://valentin430.github.io/">Valentin Martinez</a></li>
+  <li><a href="https://katemar19.github.io/">Kate Mar</a></li>
+  <li><a href="https://cohunnitshots.github.io/">Corey O’Neal</a></li>
+  <li><a href="https://odaliss12.github.io/">Giselle Rivas</a></li>
+  <li><a href="https://alexia2402.github.io/">Alexia Razo</a></li>
+  <li><a href="https://">Olivia Rodriguez</a></li>
+  <li><a href="https://francisco214.github.io/">Francisco Salazar</a></li>
+  <li><a href="https://nuunuu0.github.io/_posts/2018-11-8-Hello-World-this-is-Nakima.md">Nakima Slaughter</a></li>
+  <li><a href="https://ookawaiitostoo.github.io/">Alondra Soto</a></li>
+  <li><a href="https://kanesha00.github.io/">Kanesha Williams</a></li>
+  <li><a href="https://shariwhitaker.github.io/">Shari Whitaker</a></li>
+</ol>
+
+  </div>
+
+  <div class="date">
+    Written on 
+  </div>
+
+  
+</article>
+
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          
+
+
+
+<a href="https://github.com/barryclark/jekyll-now"><i class="svg-icon github"></i></a>
+<a href="https://instagram.com/jazm1ne"><i class="svg-icon instagram"></i></a>
+
+
+
+<a href="https://www.twitter.com/jekyllrb"><i class="svg-icon twitter"></i></a>
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+  </body>
+</html>
